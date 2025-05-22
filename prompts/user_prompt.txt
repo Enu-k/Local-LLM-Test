@@ -1,0 +1,2 @@
+What account code ledger will a line item called
+ 'Laptop Rental Charges  Batch: Primary Batch  DELL 7480/3400 C17 16GB' be assigned to?
